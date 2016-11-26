@@ -1,0 +1,3 @@
+[submodule "gemini"]
+	path = Gemini
+	url = https://github.com/w9n/gemini
